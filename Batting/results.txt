@@ -1,0 +1,293 @@
+Name: Miguel Cabrera
+Production: 0.636
+Hits/AB: 193/555
+Strikeouts/AB: 94/555
+Stolen Risk-Reward: 3/3
+
+Name: Chris Davis
+Production: 0.634
+Hits/AB: 167/584
+Strikeouts/AB: 199/584
+Stolen Risk-Reward: 4/5
+
+Name: David Ortiz
+Production: 0.564
+Hits/AB: 160/518
+Strikeouts/AB: 88/518
+Stolen Risk-Reward: 4/4
+
+Name: Mike Trout
+Production: 0.557
+Hits/AB: 190/589
+Strikeouts/AB: 136/589
+Stolen Risk-Reward: 33/40
+
+Name: Paul Goldschmidt
+Production: 0.551
+Hits/AB: 182/602
+Strikeouts/AB: 145/602
+Stolen Risk-Reward: 15/22
+
+Name: Edwin Encarnacion
+Production: 0.534
+Hits/AB: 144/530
+Strikeouts/AB: 62/530
+Stolen Risk-Reward: 7/8
+
+Name: Robinson Cano
+Production: 0.516
+Hits/AB: 190/605
+Strikeouts/AB: 85/605
+Stolen Risk-Reward: 7/8
+
+Name: Marlon Byrd
+Production: 0.511
+Hits/AB: 155/532
+Strikeouts/AB: 144/532
+Stolen Risk-Reward: 2/6
+
+Name: Adrian Beltre
+Production: 0.509
+Hits/AB: 199/631
+Strikeouts/AB: 78/631
+Stolen Risk-Reward: 1/1
+
+Name: Andrew McCutchen
+Production: 0.508
+Hits/AB: 185/583
+Strikeouts/AB: 101/583
+Stolen Risk-Reward: 27/37
+
+Name: Carlos Gomez
+Production: 0.506
+Hits/AB: 152/536
+Strikeouts/AB: 146/536
+Stolen Risk-Reward: 40/47
+
+Name: Freddie Freeman
+Production: 0.501
+Hits/AB: 176/551
+Strikeouts/AB: 121/551
+Stolen Risk-Reward: 1/1
+
+Name: Josh Donaldson
+Production: 0.499
+Hits/AB: 174/579
+Strikeouts/AB: 110/579
+Stolen Risk-Reward: 5/7
+
+Name: Evan Longoria
+Production: 0.498
+Hits/AB: 165/614
+Strikeouts/AB: 162/614
+Stolen Risk-Reward: 1/1
+
+Name: Adam Jones
+Production: 0.493
+Hits/AB: 186/653
+Strikeouts/AB: 136/653
+Stolen Risk-Reward: 14/17
+
+Name: Carlos Beltran
+Production: 0.491
+Hits/AB: 164/554
+Strikeouts/AB: 90/554
+Stolen Risk-Reward: 2/3
+
+Name: Joey Votto
+Production: 0.491
+Hits/AB: 177/581
+Strikeouts/AB: 138/581
+Stolen Risk-Reward: 6/9
+
+Name: Matt Holliday
+Production: 0.49
+Hits/AB: 156/520
+Strikeouts/AB: 86/520
+Stolen Risk-Reward: 6/7
+
+Name: Alfonso Soriano
+Production: 0.489
+Hits/AB: 148/581
+Strikeouts/AB: 156/581
+Stolen Risk-Reward: 18/27
+
+Name: Hunter Pence
+Production: 0.483
+Hits/AB: 178/629
+Strikeouts/AB: 115/629
+Stolen Risk-Reward: 22/25
+
+Name: Brandon Belt
+Production: 0.481
+Hits/AB: 147/509
+Strikeouts/AB: 125/509
+Stolen Risk-Reward: 5/7
+
+Name: Matt Carpenter
+Production: 0.481
+Hits/AB: 199/626
+Strikeouts/AB: 98/626
+Stolen Risk-Reward: 3/6
+
+Name: Jay Bruce
+Production: 0.478
+Hits/AB: 164/626
+Strikeouts/AB: 185/626
+Stolen Risk-Reward: 7/10
+
+Name: Yadier Molina
+Production: 0.477
+Hits/AB: 161/505
+Strikeouts/AB: 55/505
+Stolen Risk-Reward: 3/5
+
+Name: Pedro Alvarez
+Production: 0.473
+Hits/AB: 130/558
+Strikeouts/AB: 186/558
+Stolen Risk-Reward: 2/2
+
+Name: Ryan Zimmerman
+Production: 0.465
+Hits/AB: 156/568
+Strikeouts/AB: 133/568
+Stolen Risk-Reward: 6/6
+
+Name: Torii Hunter
+Production: 0.465
+Hits/AB: 184/606
+Strikeouts/AB: 113/606
+Stolen Risk-Reward: 3/5
+
+Name: Justin Upton
+Production: 0.464
+Hits/AB: 147/558
+Strikeouts/AB: 161/558
+Stolen Risk-Reward: 8/9
+
+Name: Shin-Soo Choo
+Production: 0.462
+Hits/AB: 162/569
+Strikeouts/AB: 133/569
+Stolen Risk-Reward: 20/31
+
+Name: Adrian Gonzalez
+Production: 0.461
+Hits/AB: 171/583
+Strikeouts/AB: 98/583
+Stolen Risk-Reward: 1/1
+
+Name: Chris Johnson
+Production: 0.457
+Hits/AB: 165/514
+Strikeouts/AB: 116/514
+Stolen Risk-Reward: 0/0
+
+Name: Allen Craig
+Production: 0.457
+Hits/AB: 160/508
+Strikeouts/AB: 100/508
+Stolen Risk-Reward: 2/2
+
+Name: Prince Fielder
+Production: 0.457
+Hits/AB: 174/624
+Strikeouts/AB: 117/624
+Stolen Risk-Reward: 1/2
+
+Name: Jonathan Lucroy
+Production: 0.455
+Hits/AB: 146/521
+Strikeouts/AB: 69/521
+Stolen Risk-Reward: 9/10
+
+Name: Carlos Santana
+Production: 0.455
+Hits/AB: 145/541
+Strikeouts/AB: 110/541
+Stolen Risk-Reward: 3/4
+
+Name: Ian Desmond
+Production: 0.453
+Hits/AB: 168/600
+Strikeouts/AB: 145/600
+Stolen Risk-Reward: 21/27
+
+Name: Mark Trumbo
+Production: 0.453
+Hits/AB: 145/620
+Strikeouts/AB: 184/620
+Stolen Risk-Reward: 5/7
+
+Name: Jason Kipnis
+Production: 0.452
+Hits/AB: 160/564
+Strikeouts/AB: 143/564
+Stolen Risk-Reward: 30/37
+
+Name: Chris Carter
+Production: 0.451
+Hits/AB: 113/506
+Strikeouts/AB: 212/506
+Stolen Risk-Reward: 2/2
+
+Name: Buster Posey
+Production: 0.45
+Hits/AB: 153/520
+Strikeouts/AB: 70/520
+Stolen Risk-Reward: 2/3
+
+Name: Kendrys Morales
+Production: 0.449
+Hits/AB: 167/602
+Strikeouts/AB: 114/602
+Stolen Risk-Reward: 0/0
+
+Name: Eric Hosmer
+Production: 0.448
+Hits/AB: 188/623
+Strikeouts/AB: 100/623
+Stolen Risk-Reward: 11/15
+
+Name: Jed Lowrie
+Production: 0.446
+Hits/AB: 175/603
+Strikeouts/AB: 91/603
+Stolen Risk-Reward: 1/1
+
+Name: Coco Crisp
+Production: 0.444
+Hits/AB: 134/513
+Strikeouts/AB: 65/513
+Stolen Risk-Reward: 21/26
+
+Name: Yoenis Cespedes
+Production: 0.442
+Hits/AB: 127/529
+Strikeouts/AB: 137/529
+Stolen Risk-Reward: 7/14
+
+Name: Adam Dunn
+Production: 0.442
+Hits/AB: 115/525
+Strikeouts/AB: 189/525
+Stolen Risk-Reward: 1/2
+
+Name: Starling Marte
+Production: 0.441
+Hits/AB: 143/510
+Strikeouts/AB: 138/510
+Stolen Risk-Reward: 41/56
+
+Name: J.J. Hardy
+Production: 0.433
+Hits/AB: 158/601
+Strikeouts/AB: 73/601
+Stolen Risk-Reward: 2/3
+
+Name: Josh Hamilton
+Production: 0.432
+Hits/AB: 144/576
+Strikeouts/AB: 158/576
+Stolen Risk-Reward: 4/4

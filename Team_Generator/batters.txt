@@ -1,0 +1,1584 @@
+Miguel Cabrera
+OBP: 0.442
+BABIP: 0.356
+TB: 424
+AB: 555
+AVG: 0.348
+SO: 94
+Risk-Reward: 3/3
+
+Chris Davis
+OBP: 0.37
+BABIP: 0.336
+TB: 466
+AB: 584
+AVG: 0.286
+SO: 199
+Risk-Reward: 4/5
+
+Mike Trout
+OBP: 0.432
+BABIP: 0.376
+TB: 403
+AB: 589
+AVG: 0.323
+SO: 136
+Risk-Reward: 33/40
+
+Paul Goldschmidt
+OBP: 0.401
+BABIP: 0.343
+TB: 407
+AB: 602
+AVG: 0.302
+SO: 145
+Risk-Reward: 15/22
+
+David Ortiz
+OBP: 0.395
+BABIP: 0.321
+TB: 362
+AB: 518
+AVG: 0.309
+SO: 88
+Risk-Reward: 4/4
+
+Joey Votto
+OBP: 0.435
+BABIP: 0.36
+TB: 342
+AB: 581
+AVG: 0.305
+SO: 138
+Risk-Reward: 6/9
+
+Jayson Werth
+OBP: 0.398
+BABIP: 0.358
+TB: 295
+AB: 462
+AVG: 0.318
+SO: 101
+Risk-Reward: 10/11
+
+Troy Tulowitzki
+OBP: 0.391
+BABIP: 0.334
+TB: 293
+AB: 446
+AVG: 0.312
+SO: 85
+Risk-Reward: 1/1
+
+Andrew McCutchen
+OBP: 0.404
+BABIP: 0.353
+TB: 360
+AB: 583
+AVG: 0.317
+SO: 101
+Risk-Reward: 27/37
+
+David Wright
+OBP: 0.39
+BABIP: 0.34
+TB: 268
+AB: 430
+AVG: 0.307
+SO: 79
+Risk-Reward: 17/20
+
+Shin-Soo Choo
+OBP: 0.423
+BABIP: 0.338
+TB: 320
+AB: 569
+AVG: 0.285
+SO: 133
+Risk-Reward: 20/31
+
+Michael Cuddyer
+OBP: 0.389
+BABIP: 0.382
+TB: 313
+AB: 489
+AVG: 0.331
+SO: 100
+Risk-Reward: 10/13
+
+Edwin Encarnacion
+OBP: 0.37
+BABIP: 0.247
+TB: 349
+AB: 530
+AVG: 0.272
+SO: 62
+Risk-Reward: 7/8
+
+Mike Napoli
+OBP: 0.36
+BABIP: 0.367
+TB: 303
+AB: 498
+AVG: 0.259
+SO: 187
+Risk-Reward: 1/2
+
+Giancarlo Stanton
+OBP: 0.365
+BABIP: 0.313
+TB: 254
+AB: 425
+AVG: 0.249
+SO: 140
+Risk-Reward: 1/1
+
+Freddie Freeman
+OBP: 0.396
+BABIP: 0.371
+TB: 328
+AB: 551
+AVG: 0.319
+SO: 121
+Risk-Reward: 1/1
+
+Brandon Moss
+OBP: 0.337
+BABIP: 0.301
+TB: 289
+AB: 446
+AVG: 0.256
+SO: 140
+Risk-Reward: 4/6
+
+Josh Donaldson
+OBP: 0.384
+BABIP: 0.333
+TB: 353
+AB: 579
+AVG: 0.301
+SO: 110
+Risk-Reward: 5/7
+
+Robinson Cano
+OBP: 0.383
+BABIP: 0.327
+TB: 380
+AB: 605
+AVG: 0.314
+SO: 85
+Risk-Reward: 7/8
+
+Joe Mauer
+OBP: 0.404
+BABIP: 0.383
+TB: 258
+AB: 445
+AVG: 0.324
+SO: 89
+Risk-Reward: 0/1
+
+Carlos Gomez
+OBP: 0.338
+BABIP: 0.344
+TB: 332
+AB: 536
+AVG: 0.284
+SO: 146
+Risk-Reward: 40/47
+
+Bryce Harper
+OBP: 0.368
+BABIP: 0.306
+TB: 253
+AB: 424
+AVG: 0.274
+SO: 94
+Risk-Reward: 11/15
+
+Matt Holliday
+OBP: 0.389
+BABIP: 0.322
+TB: 309
+AB: 520
+AVG: 0.3
+SO: 86
+Risk-Reward: 6/7
+
+Jose Bautista
+OBP: 0.358
+BABIP: 0.259
+TB: 277
+AB: 452
+AVG: 0.259
+SO: 84
+Risk-Reward: 7/9
+
+Jason Castro
+OBP: 0.35
+BABIP: 0.351
+TB: 265
+AB: 435
+AVG: 0.276
+SO: 130
+Risk-Reward: 2/3
+
+Matt Carpenter
+OBP: 0.392
+BABIP: 0.359
+TB: 374
+AB: 626
+AVG: 0.318
+SO: 98
+Risk-Reward: 3/6
+
+Colby Rasmus
+OBP: 0.338
+BABIP: 0.356
+TB: 258
+AB: 417
+AVG: 0.276
+SO: 135
+Risk-Reward: 0/1
+
+Evan Longoria
+OBP: 0.343
+BABIP: 0.312
+TB: 380
+AB: 614
+AVG: 0.269
+SO: 162
+Risk-Reward: 1/1
+
+Carlos Santana
+OBP: 0.377
+BABIP: 0.301
+TB: 306
+AB: 541
+AVG: 0.268
+SO: 110
+Risk-Reward: 3/4
+
+Brandon Belt
+OBP: 0.36
+BABIP: 0.351
+TB: 305
+AB: 509
+AVG: 0.289
+SO: 125
+Risk-Reward: 5/7
+
+Jason Kipnis
+OBP: 0.366
+BABIP: 0.345
+TB: 312
+AB: 564
+AVG: 0.284
+SO: 143
+Risk-Reward: 30/37
+
+Adam Lind
+OBP: 0.357
+BABIP: 0.324
+TB: 281
+AB: 465
+AVG: 0.288
+SO: 103
+Risk-Reward: 1/1
+
+Jarrod Saltalamacchia
+OBP: 0.338
+BABIP: 0.372
+TB: 252
+AB: 425
+AVG: 0.273
+SO: 139
+Risk-Reward: 4/5
+
+Marlon Byrd
+OBP: 0.336
+BABIP: 0.353
+TB: 336
+AB: 532
+AVG: 0.291
+SO: 144
+Risk-Reward: 2/6
+
+Justin Upton
+OBP: 0.354
+BABIP: 0.321
+TB: 315
+AB: 558
+AVG: 0.263
+SO: 161
+Risk-Reward: 8/9
+
+Adrian Beltre
+OBP: 0.371
+BABIP: 0.322
+TB: 383
+AB: 631
+AVG: 0.315
+SO: 78
+Risk-Reward: 1/1
+
+Nelson Cruz
+OBP: 0.327
+BABIP: 0.295
+TB: 254
+AB: 413
+AVG: 0.266
+SO: 109
+Risk-Reward: 5/6
+
+Jay Bruce
+OBP: 0.329
+BABIP: 0.322
+TB: 373
+AB: 626
+AVG: 0.262
+SO: 185
+Risk-Reward: 7/10
+
+Chris Carter
+OBP: 0.32
+BABIP: 0.311
+TB: 283
+AB: 506
+AVG: 0.223
+SO: 212
+Risk-Reward: 2/2
+
+Hunter Pence
+OBP: 0.339
+BABIP: 0.308
+TB: 371
+AB: 629
+AVG: 0.283
+SO: 115
+Risk-Reward: 22/25
+
+Stephen Drew
+OBP: 0.333
+BABIP: 0.32
+TB: 246
+AB: 442
+AVG: 0.253
+SO: 124
+Risk-Reward: 6/6
+
+Chase Utley
+OBP: 0.348
+BABIP: 0.305
+TB: 275
+AB: 476
+AVG: 0.284
+SO: 79
+Risk-Reward: 8/11
+
+Jhonny Peralta
+OBP: 0.358
+BABIP: 0.374
+TB: 228
+AB: 409
+AVG: 0.303
+SO: 98
+Risk-Reward: 3/6
+
+Ryan Zimmerman
+OBP: 0.344
+BABIP: 0.316
+TB: 318
+AB: 568
+AVG: 0.275
+SO: 133
+Risk-Reward: 6/6
+
+Prince Fielder
+OBP: 0.362
+BABIP: 0.307
+TB: 346
+AB: 624
+AVG: 0.279
+SO: 117
+Risk-Reward: 1/2
+
+Daniel Nava
+OBP: 0.385
+BABIP: 0.352
+TB: 245
+AB: 458
+AVG: 0.303
+SO: 93
+Risk-Reward: 0/2
+
+Will Venable
+OBP: 0.312
+BABIP: 0.313
+TB: 285
+AB: 481
+AVG: 0.268
+SO: 118
+Risk-Reward: 22/28
+
+Domonic Brown
+OBP: 0.324
+BABIP: 0.287
+TB: 297
+AB: 496
+AVG: 0.272
+SO: 97
+Risk-Reward: 8/11
+
+Raul Ibanez
+OBP: 0.306
+BABIP: 0.273
+TB: 272
+AB: 454
+AVG: 0.242
+SO: 128
+Risk-Reward: 0/0
+
+Carlos Beltran
+OBP: 0.339
+BABIP: 0.314
+TB: 329
+AB: 554
+AVG: 0.296
+SO: 90
+Risk-Reward: 2/3
+
+Allen Craig
+OBP: 0.373
+BABIP: 0.367
+TB: 276
+AB: 508
+AVG: 0.315
+SO: 100
+Risk-Reward: 2/2
+
+Buster Posey
+OBP: 0.371
+BABIP: 0.312
+TB: 284
+AB: 520
+AVG: 0.294
+SO: 70
+Risk-Reward: 2/3
+
+Dexter Fowler
+OBP: 0.369
+BABIP: 0.323
+TB: 202
+AB: 415
+AVG: 0.263
+SO: 105
+Risk-Reward: 19/28
+
+Yadier Molina
+OBP: 0.359
+BABIP: 0.338
+TB: 297
+AB: 505
+AVG: 0.319
+SO: 55
+Risk-Reward: 3/5
+
+Alfonso Soriano
+OBP: 0.302
+BABIP: 0.289
+TB: 351
+AB: 581
+AVG: 0.255
+SO: 156
+Risk-Reward: 18/27
+
+Starling Marte
+OBP: 0.343
+BABIP: 0.363
+TB: 273
+AB: 510
+AVG: 0.28
+SO: 138
+Risk-Reward: 41/56
+
+Jacoby Ellsbury
+OBP: 0.355
+BABIP: 0.341
+TB: 294
+AB: 577
+AVG: 0.298
+SO: 92
+Risk-Reward: 52/56
+
+Adam Jones
+OBP: 0.318
+BABIP: 0.314
+TB: 391
+AB: 653
+AVG: 0.285
+SO: 136
+Risk-Reward: 14/17
+
+Adam Dunn
+OBP: 0.32
+BABIP: 0.266
+TB: 281
+AB: 525
+AVG: 0.219
+SO: 189
+Risk-Reward: 1/2
+
+Ian Desmond
+OBP: 0.331
+BABIP: 0.336
+TB: 333
+AB: 600
+AVG: 0.28
+SO: 145
+Risk-Reward: 21/27
+
+Chris Johnson
+OBP: 0.358
+BABIP: 0.394
+TB: 281
+AB: 514
+AVG: 0.321
+SO: 116
+Risk-Reward: 0/0
+
+Pedro Alvarez
+OBP: 0.296
+BABIP: 0.276
+TB: 324
+AB: 558
+AVG: 0.233
+SO: 186
+Risk-Reward: 2/2
+
+Andre Ethier
+OBP: 0.36
+BABIP: 0.315
+TB: 251
+AB: 482
+AVG: 0.272
+SO: 95
+Risk-Reward: 4/7
+
+Wilin Rosario
+OBP: 0.315
+BABIP: 0.344
+TB: 262
+AB: 449
+AVG: 0.292
+SO: 109
+Risk-Reward: 4/5
+
+Coco Crisp
+OBP: 0.335
+BABIP: 0.258
+TB: 275
+AB: 513
+AVG: 0.261
+SO: 65
+Risk-Reward: 21/26
+
+Nick Swisher
+OBP: 0.341
+BABIP: 0.288
+TB: 283
+AB: 549
+AVG: 0.246
+SO: 138
+Risk-Reward: 1/1
+
+Brett Gardner
+OBP: 0.344
+BABIP: 0.342
+TB: 275
+AB: 539
+AVG: 0.273
+SO: 127
+Risk-Reward: 24/32
+
+Eric Hosmer
+OBP: 0.353
+BABIP: 0.335
+TB: 333
+AB: 623
+AVG: 0.302
+SO: 100
+Risk-Reward: 11/15
+
+Shane Victorino
+OBP: 0.351
+BABIP: 0.321
+TB: 258
+AB: 477
+AVG: 0.294
+SO: 75
+Risk-Reward: 21/24
+
+Adrian Gonzalez
+OBP: 0.342
+BABIP: 0.315
+TB: 323
+AB: 583
+AVG: 0.293
+SO: 98
+Risk-Reward: 1/1
+
+Jonathan Lucroy
+OBP: 0.34
+BABIP: 0.29
+TB: 286
+AB: 521
+AVG: 0.28
+SO: 69
+Risk-Reward: 9/10
+
+Jed Lowrie
+OBP: 0.344
+BABIP: 0.319
+TB: 331
+AB: 603
+AVG: 0.29
+SO: 91
+Risk-Reward: 1/1
+
+Chase Headley
+OBP: 0.347
+BABIP: 0.319
+TB: 258
+AB: 520
+AVG: 0.25
+SO: 142
+Risk-Reward: 8/12
+
+Billy Butler
+OBP: 0.374
+BABIP: 0.326
+TB: 282
+AB: 582
+AVG: 0.289
+SO: 102
+Risk-Reward: 0/0
+
+Nate Schierholtz
+OBP: 0.301
+BABIP: 0.27
+TB: 273
+AB: 462
+AVG: 0.251
+SO: 94
+Risk-Reward: 6/9
+
+Dustin Pedroia
+OBP: 0.372
+BABIP: 0.326
+TB: 319
+AB: 641
+AVG: 0.301
+SO: 75
+Risk-Reward: 17/22
+
+Desmond Jennings
+OBP: 0.334
+BABIP: 0.295
+TB: 269
+AB: 527
+AVG: 0.252
+SO: 115
+Risk-Reward: 20/28
+
+Torii Hunter
+OBP: 0.334
+BABIP: 0.344
+TB: 341
+AB: 606
+AVG: 0.304
+SO: 113
+Risk-Reward: 3/5
+
+Kendrys Morales
+OBP: 0.336
+BABIP: 0.309
+TB: 327
+AB: 602
+AVG: 0.277
+SO: 114
+Risk-Reward: 0/0
+
+Matthew Joyce
+OBP: 0.328
+BABIP: 0.251
+TB: 213
+AB: 413
+AVG: 0.235
+SO: 87
+Risk-Reward: 7/10
+
+Mark Trumbo
+OBP: 0.294
+BABIP: 0.273
+TB: 347
+AB: 620
+AVG: 0.234
+SO: 184
+Risk-Reward: 5/7
+
+Kyle Seager
+OBP: 0.338
+BABIP: 0.29
+TB: 318
+AB: 615
+AVG: 0.26
+SO: 122
+Risk-Reward: 9/12
+
+Alex Rios
+OBP: 0.324
+BABIP: 0.311
+TB: 321
+AB: 616
+AVG: 0.278
+SO: 108
+Risk-Reward: 42/49
+
+Justin Smoak
+OBP: 0.334
+BABIP: 0.278
+TB: 226
+AB: 454
+AVG: 0.238
+SO: 119
+Risk-Reward: 0/0
+
+Michael Saunders
+OBP: 0.323
+BABIP: 0.298
+TB: 199
+AB: 406
+AVG: 0.236
+SO: 118
+Risk-Reward: 13/18
+
+Anthony Rizzo
+OBP: 0.323
+BABIP: 0.258
+TB: 319
+AB: 606
+AVG: 0.233
+SO: 127
+Risk-Reward: 6/11
+
+Austin Jackson
+OBP: 0.337
+BABIP: 0.333
+TB: 279
+AB: 552
+AVG: 0.272
+SO: 129
+Risk-Reward: 8/12
+
+Adam LaRoche
+OBP: 0.332
+BABIP: 0.277
+TB: 248
+AB: 511
+AVG: 0.237
+SO: 131
+Risk-Reward: 4/5
+
+Josh Hamilton
+OBP: 0.307
+BABIP: 0.303
+TB: 307
+AB: 576
+AVG: 0.25
+SO: 158
+Risk-Reward: 4/4
+
+Ben Zobrist
+OBP: 0.354
+BABIP: 0.303
+TB: 297
+AB: 612
+AVG: 0.275
+SO: 91
+Risk-Reward: 11/14
+
+James Loney
+OBP: 0.348
+BABIP: 0.326
+TB: 282
+AB: 549
+AVG: 0.299
+SO: 77
+Risk-Reward: 3/4
+
+Victor Martinez
+OBP: 0.355
+BABIP: 0.313
+TB: 310
+AB: 605
+AVG: 0.301
+SO: 62
+Risk-Reward: 0/2
+
+Neil Walker
+OBP: 0.339
+BABIP: 0.274
+TB: 244
+AB: 478
+AVG: 0.251
+SO: 85
+Risk-Reward: 1/3
+
+Mitch Moreland
+OBP: 0.299
+BABIP: 0.255
+TB: 250
+AB: 462
+AVG: 0.232
+SO: 117
+Risk-Reward: 0/0
+
+Omar Infante
+OBP: 0.345
+BABIP: 0.333
+TB: 241
+AB: 453
+AVG: 0.318
+SO: 44
+Risk-Reward: 5/7
+
+Jedd Gyorko
+OBP: 0.301
+BABIP: 0.287
+TB: 265
+AB: 486
+AVG: 0.249
+SO: 123
+Risk-Reward: 1/2
+
+Alex Gordon
+OBP: 0.327
+BABIP: 0.31
+TB: 320
+AB: 633
+AVG: 0.265
+SO: 141
+Risk-Reward: 11/14
+
+Nate McLouth
+OBP: 0.329
+BABIP: 0.288
+TB: 259
+AB: 531
+AVG: 0.258
+SO: 86
+Risk-Reward: 30/37
+
+Howie Kendrick
+OBP: 0.335
+BABIP: 0.34
+TB: 248
+AB: 478
+AVG: 0.297
+SO: 89
+Risk-Reward: 6/9
+
+Brian Dozier
+OBP: 0.312
+BABIP: 0.278
+TB: 286
+AB: 558
+AVG: 0.244
+SO: 120
+Risk-Reward: 14/21
+
+Yoenis Cespedes
+OBP: 0.294
+BABIP: 0.274
+TB: 285
+AB: 529
+AVG: 0.24
+SO: 137
+Risk-Reward: 7/14
+
+Pablo Sandoval
+OBP: 0.341
+BABIP: 0.301
+TB: 262
+AB: 525
+AVG: 0.278
+SO: 79
+Risk-Reward: 0/0
+
+Jean Segura
+OBP: 0.329
+BABIP: 0.326
+TB: 291
+AB: 588
+AVG: 0.294
+SO: 84
+Risk-Reward: 44/57
+
+A.J. Pollock
+OBP: 0.322
+BABIP: 0.314
+TB: 222
+AB: 443
+AVG: 0.269
+SO: 82
+Risk-Reward: 12/15
+
+Ian Kinsler
+OBP: 0.344
+BABIP: 0.287
+TB: 271
+AB: 545
+AVG: 0.277
+SO: 59
+Risk-Reward: 15/26
+
+Alejandro De Aza
+OBP: 0.323
+BABIP: 0.318
+TB: 294
+AB: 607
+AVG: 0.264
+SO: 147
+Risk-Reward: 20/28
+
+Carl Crawford
+OBP: 0.329
+BABIP: 0.321
+TB: 216
+AB: 435
+AVG: 0.283
+SO: 66
+Risk-Reward: 15/19
+
+Manny Machado
+OBP: 0.314
+BABIP: 0.322
+TB: 356
+AB: 667
+AVG: 0.283
+SO: 113
+Risk-Reward: 6/13
+
+Justin Morneau
+OBP: 0.323
+BABIP: 0.29
+TB: 288
+AB: 572
+AVG: 0.259
+SO: 110
+Risk-Reward: 0/0
+
+Todd Frazier
+OBP: 0.314
+BABIP: 0.269
+TB: 267
+AB: 531
+AVG: 0.234
+SO: 125
+Risk-Reward: 6/11
+
+Garrett Jones
+OBP: 0.289
+BABIP: 0.271
+TB: 212
+AB: 403
+AVG: 0.233
+SO: 101
+Risk-Reward: 2/2
+
+Mark Reynolds
+OBP: 0.306
+BABIP: 0.282
+TB: 210
+AB: 445
+AVG: 0.22
+SO: 154
+Risk-Reward: 3/4
+
+Chris Denorfia
+OBP: 0.337
+BABIP: 0.319
+TB: 220
+AB: 473
+AVG: 0.279
+SO: 84
+Risk-Reward: 11/11
+
+Russell Martin
+OBP: 0.327
+BABIP: 0.266
+TB: 201
+AB: 438
+AVG: 0.226
+SO: 108
+Risk-Reward: 9/14
+
+Dayan Viciedo
+OBP: 0.304
+BABIP: 0.308
+TB: 228
+AB: 441
+AVG: 0.265
+SO: 98
+Risk-Reward: 0/0
+
+Gerardo Parra
+OBP: 0.323
+BABIP: 0.305
+TB: 299
+AB: 601
+AVG: 0.268
+SO: 100
+Risk-Reward: 10/20
+
+Daniel Murphy
+OBP: 0.319
+BABIP: 0.315
+TB: 328
+AB: 658
+AVG: 0.286
+SO: 95
+Risk-Reward: 23/26
+
+David Freese
+OBP: 0.34
+BABIP: 0.32
+TB: 212
+AB: 462
+AVG: 0.262
+SO: 106
+Risk-Reward: 1/3
+
+Dan Uggla
+OBP: 0.309
+BABIP: 0.225
+TB: 197
+AB: 448
+AVG: 0.179
+SO: 171
+Risk-Reward: 2/2
+
+Martin Prado
+OBP: 0.333
+BABIP: 0.288
+TB: 306
+AB: 609
+AVG: 0.282
+SO: 53
+Risk-Reward: 3/8
+
+Leonys Martin
+OBP: 0.313
+BABIP: 0.319
+TB: 211
+AB: 457
+AVG: 0.26
+SO: 104
+Risk-Reward: 36/45
+
+Salvador Perez
+OBP: 0.323
+BABIP: 0.311
+TB: 256
+AB: 496
+AVG: 0.292
+SO: 63
+Risk-Reward: 0/0
+
+Ryan Doumit
+OBP: 0.314
+BABIP: 0.282
+TB: 235
+AB: 485
+AVG: 0.247
+SO: 99
+Risk-Reward: 1/1
+
+Justin Ruggiano
+OBP: 0.298
+BABIP: 0.26
+TB: 205
+AB: 424
+AVG: 0.222
+SO: 114
+Risk-Reward: 15/23
+
+Michael Young
+OBP: 0.335
+BABIP: 0.319
+TB: 244
+AB: 519
+AVG: 0.279
+SO: 83
+Risk-Reward: 1/1
+
+J.J. Hardy
+OBP: 0.306
+BABIP: 0.263
+TB: 312
+AB: 601
+AVG: 0.263
+SO: 73
+Risk-Reward: 2/3
+
+Asdrubal Cabrera
+OBP: 0.299
+BABIP: 0.283
+TB: 255
+AB: 508
+AVG: 0.242
+SO: 114
+Risk-Reward: 9/12
+
+Drew Stubbs
+OBP: 0.305
+BABIP: 0.319
+TB: 188
+AB: 430
+AVG: 0.233
+SO: 141
+Risk-Reward: 17/19
+
+Matt Wieters
+OBP: 0.287
+BABIP: 0.247
+TB: 269
+AB: 523
+AVG: 0.235
+SO: 104
+Risk-Reward: 2/2
+
+Jon Jay
+OBP: 0.351
+BABIP: 0.325
+TB: 239
+AB: 548
+AVG: 0.276
+SO: 103
+Risk-Reward: 10/15
+
+Michael Brantley
+OBP: 0.332
+BABIP: 0.304
+TB: 259
+AB: 556
+AVG: 0.284
+SO: 67
+Risk-Reward: 17/21
+
+Brett Lawrie
+OBP: 0.315
+BABIP: 0.28
+TB: 191
+AB: 401
+AVG: 0.254
+SO: 68
+Risk-Reward: 9/14
+
+Lyle Overbay
+OBP: 0.295
+BABIP: 0.287
+TB: 214
+AB: 445
+AVG: 0.24
+SO: 111
+Risk-Reward: 2/2
+
+Trevor Plouffe
+OBP: 0.309
+BABIP: 0.301
+TB: 224
+AB: 477
+AVG: 0.254
+SO: 112
+Risk-Reward: 2/3
+
+Gregor Blanco
+OBP: 0.341
+BABIP: 0.328
+TB: 184
+AB: 452
+AVG: 0.265
+SO: 95
+Risk-Reward: 14/23
+
+Denard Span
+OBP: 0.327
+BABIP: 0.313
+TB: 275
+AB: 610
+AVG: 0.279
+SO: 77
+Risk-Reward: 20/26
+
+Yunel Escobar
+OBP: 0.332
+BABIP: 0.281
+TB: 223
+AB: 508
+AVG: 0.256
+SO: 73
+Risk-Reward: 4/8
+
+Nolan Arenado
+OBP: 0.301
+BABIP: 0.296
+TB: 240
+AB: 486
+AVG: 0.267
+SO: 72
+Risk-Reward: 2/2
+
+Conor Gillaspie
+OBP: 0.305
+BABIP: 0.27
+TB: 189
+AB: 408
+AVG: 0.245
+SO: 79
+Risk-Reward: 0/1
+
+Marco Scutaro
+OBP: 0.357
+BABIP: 0.314
+TB: 208
+AB: 488
+AVG: 0.297
+SO: 34
+Risk-Reward: 2/2
+
+Norichika Aoki
+OBP: 0.356
+BABIP: 0.295
+TB: 252
+AB: 597
+AVG: 0.286
+SO: 40
+Risk-Reward: 20/32
+
+Michael Bourn
+OBP: 0.316
+BABIP: 0.338
+TB: 222
+AB: 525
+AVG: 0.263
+SO: 132
+Risk-Reward: 23/35
+
+A.J. Pierzynski
+OBP: 0.297
+BABIP: 0.288
+TB: 256
+AB: 503
+AVG: 0.272
+SO: 76
+Risk-Reward: 1/2
+
+Andy Dirks
+OBP: 0.323
+BABIP: 0.298
+TB: 186
+AB: 438
+AVG: 0.256
+SO: 84
+Risk-Reward: 7/8
+
+Brandon Phillips
+OBP: 0.31
+BABIP: 0.281
+TB: 284
+AB: 606
+AVG: 0.261
+SO: 98
+Risk-Reward: 5/8
+
+Alberto Callaspo
+OBP: 0.333
+BABIP: 0.266
+TB: 197
+AB: 453
+AVG: 0.258
+SO: 47
+Risk-Reward: 0/2
+
+Eric Young
+OBP: 0.31
+BABIP: 0.301
+TB: 217
+AB: 539
+AVG: 0.249
+SO: 100
+Risk-Reward: 46/57
+
+Jimmy Rollins
+OBP: 0.318
+BABIP: 0.288
+TB: 253
+AB: 600
+AVG: 0.252
+SO: 93
+Risk-Reward: 22/28
+
+Alexei Ramirez
+OBP: 0.313
+BABIP: 0.309
+TB: 289
+AB: 637
+AVG: 0.284
+SO: 68
+Risk-Reward: 30/39
+
+Miguel Montero
+OBP: 0.318
+BABIP: 0.282
+TB: 167
+AB: 413
+AVG: 0.23
+SO: 110
+Risk-Reward: 0/0
+
+Matt Dominguez
+OBP: 0.286
+BABIP: 0.254
+TB: 265
+AB: 543
+AVG: 0.241
+SO: 96
+Risk-Reward: 0/1
+
+Andrelton Simmons
+OBP: 0.296
+BABIP: 0.247
+TB: 290
+AB: 606
+AVG: 0.248
+SO: 55
+Risk-Reward: 6/11
+
+Brandon Crawford
+OBP: 0.311
+BABIP: 0.29
+TB: 217
+AB: 499
+AVG: 0.248
+SO: 96
+Risk-Reward: 1/3
+
+J.B. Shuck
+OBP: 0.331
+BABIP: 0.325
+TB: 185
+AB: 437
+AVG: 0.293
+SO: 54
+Risk-Reward: 8/12
+
+Jose Altuve
+OBP: 0.316
+BABIP: 0.316
+TB: 265
+AB: 626
+AVG: 0.283
+SO: 85
+Risk-Reward: 35/48
+
+DJ LeMahieu
+OBP: 0.311
+BABIP: 0.328
+TB: 172
+AB: 404
+AVG: 0.28
+SO: 67
+Risk-Reward: 18/25
+
+Erick Aybar
+OBP: 0.301
+BABIP: 0.292
+TB: 254
+AB: 550
+AVG: 0.271
+SO: 59
+Risk-Reward: 12/19
+
+Elvis Andrus
+OBP: 0.328
+BABIP: 0.312
+TB: 230
+AB: 620
+AVG: 0.271
+SO: 97
+Risk-Reward: 42/50
+
+David Murphy
+OBP: 0.282
+BABIP: 0.227
+TB: 203
+AB: 436
+AVG: 0.22
+SO: 59
+Risk-Reward: 1/5
+
+Emilio Bonifacio
+OBP: 0.295
+BABIP: 0.312
+TB: 167
+AB: 420
+AVG: 0.243
+SO: 103
+Risk-Reward: 28/36
+
+Nick Markakis
+OBP: 0.329
+BABIP: 0.291
+TB: 260
+AB: 634
+AVG: 0.271
+SO: 76
+Risk-Reward: 1/3
+
+Paul Konerko
+OBP: 0.313
+BABIP: 0.265
+TB: 194
+AB: 467
+AVG: 0.244
+SO: 74
+Risk-Reward: 0/0
+
+Zack Cozart
+OBP: 0.284
+BABIP: 0.285
+TB: 261
+AB: 567
+AVG: 0.254
+SO: 102
+Risk-Reward: 0/0
+
+Mike Moustakas
+OBP: 0.287
+BABIP: 0.257
+TB: 210
+AB: 472
+AVG: 0.233
+SO: 83
+Risk-Reward: 2/6
+
+Mark Ellis
+OBP: 0.323
+BABIP: 0.31
+TB: 173
+AB: 433
+AVG: 0.27
+SO: 74
+Risk-Reward: 4/5
+
+Brandon Barnes
+OBP: 0.289
+BABIP: 0.327
+TB: 167
+AB: 408
+AVG: 0.24
+SO: 127
+Risk-Reward: 11/22
+
+Pedro Florimon
+OBP: 0.281
+BABIP: 0.284
+TB: 159
+AB: 403
+AVG: 0.221
+SO: 115
+Risk-Reward: 15/21
+
+Vernon Wells
+OBP: 0.282
+BABIP: 0.256
+TB: 175
+AB: 424
+AVG: 0.233
+SO: 73
+Risk-Reward: 7/10
+
+Starlin Castro
+OBP: 0.284
+BABIP: 0.29
+TB: 277
+AB: 666
+AVG: 0.245
+SO: 129
+Risk-Reward: 9/15
+
+Ichiro Suzuki
+OBP: 0.297
+BABIP: 0.285
+TB: 203
+AB: 520
+AVG: 0.262
+SO: 63
+Risk-Reward: 20/24
+
+J.P. Arencibia
+OBP: 0.227
+BABIP: 0.231
+TB: 212
+AB: 474
+AVG: 0.194
+SO: 148
+Risk-Reward: 0/2
+
+Darwin Barney
+OBP: 0.266
+BABIP: 0.222
+TB: 185
+AB: 501
+AVG: 0.208
+SO: 64
+Risk-Reward: 4/6
+
+Jeff Keppinger
+OBP: 0.283
+BABIP: 0.269
+TB: 152
+AB: 423
+AVG: 0.253
+SO: 41
+Risk-Reward: 0/1
+
+Pete Kozma
+OBP: 0.275
+BABIP: 0.274
+TB: 133
+AB: 410
+AVG: 0.217
+SO: 91
+Risk-Reward: 3/4
+
+Adeiny Hechavarria
+OBP: 0.267
+BABIP: 0.27
+TB: 187
+AB: 543
+AVG: 0.227
+SO: 96
+Risk-Reward: 11/21
+
+Alcides Escobar
+OBP: 0.259
+BABIP: 0.264
+TB: 210
+AB: 607
+AVG: 0.234
+SO: 84
+Risk-Reward: 22/22
+
